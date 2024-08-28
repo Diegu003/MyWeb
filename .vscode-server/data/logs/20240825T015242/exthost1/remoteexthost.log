@@ -1,0 +1,14 @@
+2024-08-25 01:52:52.964 [info] Extension host with pid 4188 started
+2024-08-25 01:52:53.213 [info] Lock '/home/diegu003/.vscode-server/data/User/workspaceStorage/bbf695d7cad4cfd635734d52392b7f65/vscode.lock': Lock acquired.
+2024-08-25 01:52:54.411 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-25 01:52:54.446 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-08-25 01:52:56.212 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-25 01:52:58.271 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-25 01:52:58.274 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-25 01:53:02.166 [info] Eager extensions activated
+2024-08-25 01:53:02.169 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-25 01:53:02.183 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-25 01:57:38.298 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-08-25 02:15:39.254 [info] Extension host terminating: received terminate message from renderer
+2024-08-25 02:15:39.257 [info] Lock '/home/diegu003/.vscode-server/data/User/workspaceStorage/bbf695d7cad4cfd635734d52392b7f65/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-08-25 02:15:39.782 [info] Extension host with pid 4188 exiting with code 0
